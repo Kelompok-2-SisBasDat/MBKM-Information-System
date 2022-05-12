@@ -2,4 +2,4 @@
 2. status mahasiswa dengan mbkm(sudah atau blm)
 3. tampilan mahasiswa yg blm mengikuti mbkm di dosen wali
 4. waktu mahasiwa yg mengikuti mbkm (semester kapan)
-5. 
+5. filter untuk wali melihat
